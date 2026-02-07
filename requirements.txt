@@ -1,9 +1,9 @@
-streamlit
-torch
-torchvision
-numpy
+streamlit==1.32.0
+torch==2.2.0
+torchvision==0.17.0
+numpy==1.26.4
 pillow
-opencv-python
 matplotlib
 torchxrayvision
 scikit-image
+opencv-python-headless==4.9.0.80
