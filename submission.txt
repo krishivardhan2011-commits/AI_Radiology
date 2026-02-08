@@ -1,0 +1,15 @@
+MODEL CHECKPOINT LINK:
+https://drive.google.com/file/d/1MZnxsmZYkWVtOq-JZc0DK1XUORX9_-C7/view?usp=sharing
+
+DEMO VIDEO LINK:
+(Paste your video link here – Google Drive / YouTube)
+
+TEAM NAME:
+Code Blodded
+
+PROJECT:
+AI Cognitive Radiology – PRO-FA + MIX-MLP + RCTA
+
+NOTES:
+All required modules implemented.
+Repository follows given structure.
