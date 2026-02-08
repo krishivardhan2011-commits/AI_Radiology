@@ -2,7 +2,7 @@ MODEL CHECKPOINT LINK:
 https://drive.google.com/file/d/1MZnxsmZYkWVtOq-JZc0DK1XUORX9_-C7/view?usp=sharing
 
 DEMO VIDEO LINK:
-(Paste your video link here – Google Drive / YouTube)
+https://drive.google.com/file/d/114i4F_NLxCCv4w35NAZp9V3JaEcPgTGU/view?usp=sharing
 
 TEAM NAME:
 Code Blodded
